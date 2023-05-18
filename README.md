@@ -22,13 +22,15 @@
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PostGreSQL](https://img.shields.io/badge/-PostGreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=green&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/Solid-0D1117.svg?style=for-the-badge&logo=Solid&logoColor=white&textColor=0D1117)&nbsp;
 
 ### Tools:
-![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
@@ -40,7 +42,6 @@
 ### Studying in this moment:
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=Docker&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/Solid-0D1117.svg?style=for-the-badge&logo=Solid&logoColor=white&textColor=0D1117)&nbsp;
 
 
   <div align="center">
