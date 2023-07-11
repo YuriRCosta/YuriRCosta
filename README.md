@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/yuriramoscosta/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"</a>
 </div>
 
-## Main skills:
+### Main skills:
 ![Java](https://img.shields.io/badge/-Java-yellow?style=for-the-badge&logo=java&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PostGreSQL](https://img.shields.io/badge/-PostGreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-0D1117?style=for-the-badge&logo=spring&logoColor=green&labelColor=0D1117)&nbsp;
