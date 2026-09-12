@@ -4,7 +4,7 @@ Engenheiro de Software Backend com 3 anos de experiência, especializado no seto
 
 ## 🚀 Performance & Impacto Técnico
 
-* **Top 5% Performer**: Classificado consistentemente como "Fora da Curva" em avaliações de desempenho consecutivas.
+* **Top 2.5% Performer**: Classificado consistentemente como "Fora da Curva" em avaliações de desempenho consecutivas.
 * **Retenção Financeira**: Planejamento e implementação da feature de Novação de Investimentos, garantindo a manutenção de **R$ 1 milhão em caixa** para a operação.
 * **Otimização de Performance (P95)**: Redução da latência do sistema de **850ms para 250ms** através de refatoração em Go e tunagem de serviços AWS.
 * **Eficiência de Dados**: Otimização de queries complexas, reduzindo o tempo de resposta de **3 segundos para 70ms** para grandes volumes de dados.
