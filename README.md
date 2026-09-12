@@ -1,4 +1,4 @@
-# Yuri Costa | Software Engineer Backend Pleno
+# Yuri Costa | Software Engineer Backend
 
 Engenheiro de Software Backend com 3 anos de experiência, especializado no setor de Fintech e sistemas de alta disponibilidade. Minha expertise está focada na construção de soluções escaláveis utilizando **Golang**, **Node.js (NestJS)** e o ecossistema **AWS**.
 
